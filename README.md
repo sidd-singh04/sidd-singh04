@@ -19,10 +19,15 @@ I'm a Computer Science Engineering student passionate about building practical, 
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" title="HTML5"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" title="CSS3"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" title="React"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40" height="40" alt="Vite" title="Vite"/>
 </p>
 
@@ -30,29 +35,45 @@ I'm a Computer Science Engineering student passionate about building practical, 
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" title="Node.js"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express.js" title="Express.js"/>
 </p>
 
-REST APIs · Authentication · Real-time Communication
-
 ### 🗄️ Database
 
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" title="MongoDB"/> <img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" height="40" alt="MongoDB Atlas" title="MongoDB Atlas"/> </p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" title="MongoDB"/>
+</p>
 
 ### 🧰 Tools & Platforms
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" title="GitHub"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" title="VS Code"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" title="Postman"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel" title="Vercel"/>
 </p>
 
 ### 🔧 Other Tools & Services
 
-<p align="left"> <img src="https://cdn.simpleicons.org/socketdotio/010101" width="40" height="40" alt="Socket.IO" title="Socket.IO"/> <img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="40" height="40" alt="Cloudinary" title="Cloudinary"/> <img src="https://cdn.simpleicons.org/render/46E3B7" width="40" height="40" alt="Render" title="Render"/> <img src="https://cdn.simpleicons.org/razorpay/0C2451" width="40" height="40" alt="Razorpay" title="Razorpay"/> <img src="https://cdn.simpleicons.org/clerk/6C47FF" width="40" height="40" alt="Clerk" title="Clerk"/> <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="40" height="40" alt="Google Gemini" title="Google Gemini"/> </p>
-
+<p align="left">
+  <img src="https://cdn.simpleicons.org/socketdotio/010101" width="40" height="40" alt="Socket.IO" title="Socket.IO"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="40" height="40" alt="Cloudinary" title="Cloudinary"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/render/46E3B7" width="40" height="40" alt="Render" title="Render"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/razorpay/0C2451" width="40" height="40" alt="Razorpay" title="Razorpay"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/clerk/6C47FF" width="40" height="40" alt="Clerk" title="Clerk"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="40" height="40" alt="Google Gemini" title="Google Gemini"/>
+</p>
 
 ### 🧠 Core Concepts
 
@@ -70,6 +91,7 @@ REST APIs · Authentication · Real-time Communication
   <a href="https://github.com/sidd-singh04" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/siddharth-singh-2a80b62b4/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn"/>
   </a>
