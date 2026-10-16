@@ -1,4 +1,4 @@
-# Hi 👋, I'm Siddharth Singh
+# Hello 👋, I'm Siddharth Singh
 
 <table>
 <tr>
