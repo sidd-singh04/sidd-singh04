@@ -14,7 +14,10 @@ I'm a Computer Science Engineering student passionate about building practical, 
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Developer coding animation"/>
+```html
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="320" alt="Animated developer illustration"/>
+```
+
 
 </td>
 </tr>
