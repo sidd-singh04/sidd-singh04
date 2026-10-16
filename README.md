@@ -1,13 +1,27 @@
 # Hi 👋, I'm Siddharth Singh
 
-### Full Stack Developer | MERN Stack | Java & DSA
+<table>
+<tr>
+<td width="60%" valign="middle">
+
+### 💻 Full Stack Developer | MERN Stack | Java & DSA
 
 I'm a Computer Science Engineering student passionate about building practical, user-friendly, and visually appealing applications. I enjoy turning ideas into functional products with a focus on clean design, useful features, and a smooth user experience. I believe in learning by building and continuously improving with every project. 🚀
 
 * 🌍 Based in India
 * ✉️ Email: [siddharthsingh04.singh@gmail.com](mailto:siddharthsingh04.singh@gmail.com)
 
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Developer coding animation"/>
+
+</td>
+</tr>
+</table>
+
 ---
+
 
 ### 💻 Programming Languages
 
