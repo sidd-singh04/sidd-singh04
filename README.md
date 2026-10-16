@@ -87,8 +87,9 @@ I'm a Computer Science Engineering student passionate about building practical, 
 
 ### 🏆 Highlights & Achievements
 
-* 💻 **290+ LeetCode Problems Solved** — Strengthening problem-solving skills through consistent practice of Data Structures and Algorithms.
-* 🎯 **CRT Joint Coordinator, GJUS&T** — Contributed to campus recruitment activities and technical infrastructure management, collaborating with an 8-member team to coordinate 12 venues for an event with 800+ participants.
+* 💻 **290+ Problems Solved on LeetCode & GeeksforGeeks** — Strengthening problem-solving skills through consistent practice of Data Structures and Algorithms.
+* 🎯 **CRT Joint Coordinator, GJUS&T** — Helped organize a soft-skills development event for final-year students, collaborating with an 8-member team to coordinate activities across 12 venues for 800+ participants.
+
 
 ---
 
