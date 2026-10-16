@@ -37,9 +37,7 @@ REST APIs · Authentication · Real-time Communication
 
 ### 🗄️ Database
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" title="MongoDB"/>
-</p>
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" title="MongoDB"/> <img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" height="40" alt="MongoDB Atlas" title="MongoDB Atlas"/> </p>
 
 ### 🧰 Tools & Platforms
 
@@ -53,17 +51,8 @@ REST APIs · Authentication · Real-time Communication
 
 ### 🔧 Other Tools & Services
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/socketdotio/010101" width="40" height="40" alt="Socket.IO" title="Socket.IO"/>
-  <img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="40" height="40" alt="Cloudinary" title="Cloudinary"/>
-  <img src="https://cdn.simpleicons.org/render/46E3B7" width="40" height="40" alt="Render" title="Render"/>
-  <img src="https://cdn.simpleicons.org/razorpay/0C2451" width="40" height="40" alt="Razorpay" title="Razorpay"/>
-  <img src="https://cdn.simpleicons.org/stream/005FFF" width="40" height="40" alt="Stream" title="Stream"/>
-  <img src="https://cdn.simpleicons.org/clerk/6C47FF" width="40" height="40" alt="Clerk" title="Clerk"/>
-  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="40" height="40" alt="Google Gemini" title="Google Gemini"/>
-</p>
+<p align="left"> <img src="https://cdn.simpleicons.org/socketdotio/010101" width="40" height="40" alt="Socket.IO" title="Socket.IO"/> <img src="https://cdn.simpleicons.org/cloudinary/3448C5" width="40" height="40" alt="Cloudinary" title="Cloudinary"/> <img src="https://cdn.simpleicons.org/render/46E3B7" width="40" height="40" alt="Render" title="Render"/> <img src="https://cdn.simpleicons.org/razorpay/0C2451" width="40" height="40" alt="Razorpay" title="Razorpay"/> <img src="https://cdn.simpleicons.org/clerk/6C47FF" width="40" height="40" alt="Clerk" title="Clerk"/> <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="40" height="40" alt="Google Gemini" title="Google Gemini"/> </p>
 
-TanStack Query · MongoDB Atlas · Groq API · Inngest
 
 ### 🧠 Core Concepts
 
