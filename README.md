@@ -190,7 +190,7 @@ A one-to-one coding interview platform that combines real-time communication, co
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidd-singh04&theme=dark&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidd-singh04&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages"/>
 </p>
 
