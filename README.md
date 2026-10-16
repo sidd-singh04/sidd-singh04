@@ -107,7 +107,7 @@ I'm a Computer Science Engineering student passionate about building practical, 
 <h3 align="center">🌐 MintSite AI</h3>
 
 <p align="center">
-  <strong>React • Tailwind CSS • Node.js • Express.js • MongoDB • Gemini API • Groq API</strong>
+  <strong>React • Node.js • Express.js • MongoDB • Razorpay • Gemini API • Groq API</strong>
 </p>
 
 <p>
