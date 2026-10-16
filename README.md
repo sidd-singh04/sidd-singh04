@@ -84,6 +84,69 @@ I'm a Computer Science Engineering student passionate about building practical, 
 * Software Engineering
 
 ---
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🚀 MintSite AI</h3>
+
+<p align="center">
+  <strong>React • Tailwind CSS • Node.js • Express.js • MongoDB • Gemini API • Groq API</strong>
+</p>
+
+<p>
+An AI-powered website builder that transforms natural language prompts into website previews, making website creation easier without extensive coding.
+</p>
+
+**✨ What makes it special**
+
+* Generates websites from natural language prompts.
+* Uses Gemini and Groq APIs for AI-powered website generation.
+* Supports website refinement through follow-up prompts.
+* Includes JWT-based authentication and user-specific website ownership.
+* Implements a credit-based generation system.
+* Provides a responsive website preview interface.
+
+<p align="center">
+  <a href="https://github.com/sidd-singh04/AI-Website-Builder-Mintsite">
+    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github" alt="View MintSite AI Repository"/>
+  </a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">💻 Talent-IQ</h3>
+
+<p align="center">
+  <strong>React • Tailwind CSS • Node.js • Express.js • MongoDB • Clerk • Stream • TanStack Query • JDoodle API</strong>
+</p>
+
+<p>
+A one-to-one coding interview platform that combines real-time communication, collaborative coding, and automated code evaluation for technical interviews.
+</p>
+
+**✨ What makes it special**
+
+* Supports real-time video calling and chat.
+* Provides a collaborative coding environment using Monaco Editor.
+* Integrates JDoodle API for code execution and evaluation.
+* Supports test cases and automated result evaluation.
+* Uses Clerk for authentication and MongoDB for application data.
+* Includes interview room management with a two-participant limit.
+
+<p align="center">
+  <a href="https://github.com/sidd-singh04/talent-IQ">
+    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github" alt="View Talent-IQ Repository"/>
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
 
 ### 🏆 Highlights & Achievements
 
