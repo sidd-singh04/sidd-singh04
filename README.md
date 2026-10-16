@@ -23,7 +23,7 @@ I'm a Computer Science Engineering student passionate about building practical, 
 ---
 
 
-### 💻 Programming Languages
+### 💻 Programming Language
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" title="Java"/>
