@@ -1,6 +1,6 @@
 # Hi 👋, I'm Siddharth Singh
 
-### 💻 Full Stack Developer | MERN Stack | Java & DSA
+### Full Stack Developer | MERN Stack | Java & DSA
 
 I'm a Computer Science Engineering student passionate about building practical, user-friendly, and visually appealing applications. I enjoy turning ideas into functional products with a focus on clean design, useful features, and a smooth user experience. I believe in learning by building and continuously improving with every project. 🚀
 
@@ -90,7 +90,7 @@ I'm a Computer Science Engineering student passionate about building practical, 
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🚀 MintSite AI</h3>
+<h3 align="center">🌐 MintSite AI</h3>
 
 <p align="center">
   <strong>React • Tailwind CSS • Node.js • Express.js • MongoDB • Gemini API • Groq API</strong>
@@ -118,7 +118,7 @@ An AI-powered website builder that transforms natural language prompts into webs
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">💻 Talent-IQ</h3>
+<h3 align="center">👨‍💻 Talent-IQ</h3>
 
 <p align="center">
   <strong>React • Tailwind CSS • Node.js • Express.js • MongoDB • Clerk • Stream • TanStack Query • JDoodle API</strong>
