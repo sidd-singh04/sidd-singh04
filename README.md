@@ -186,7 +186,7 @@ A one-to-one coding interview platform that combines real-time communication, co
 
 ### 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidd-singh04&theme=dark&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
